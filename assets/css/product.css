@@ -30,17 +30,17 @@ body {
     gap: 20px;
 }
 
+.topnav h3 {
+    color: white;
+    margin: 0;
+    font-weight: normal;
+}
+
 .topnav h3:hover {
     color: gray;
     transition: 0.3s;
     transform: scale(1.1);
     cursor: pointer;
-}
-
-.topnav h3 {
-    color: white;
-    margin: 0;
-    font-weight: normal;
 }
 
 .heart {
